@@ -36,7 +36,7 @@ public class BillSplitter {
     }
 
     // write printHeader() -- void, no parameters, prints "=== Receipt ==="
-
+    
 
     // write calculateTip(double subtotal, double percent) -- returns subtotal * percent / 100
 

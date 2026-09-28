@@ -12,10 +12,10 @@ public class MethodsDemo {
         // below we are calling methods (functions) that are defined later in this file.
         // main is a method too -- this whole file is nothing but method declarations.
         sayHello();
-        parametersAndCallByValue();
-        returningAValue();
-        overloadingDemo();
-        commonMethodBugs();
+        //parametersAndCallByValue();
+        //returningAValue();
+        //overloadingDemo();
+        //commonMethodBugs();
     }
 
     // method to demonstrate a void method with no parameters
@@ -145,3 +145,6 @@ public class MethodsDemo {
         System.out.println("(the two bug examples above are commented out on purpose -- they don't compile)");
     }
 }
+
+
+
